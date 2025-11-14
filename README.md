@@ -1,8 +1,8 @@
 # GAME_PROGRAM-EX--5
 ## Making Player to collect the ammo and increase the bullet spawn count.
 
-## Name :Hari Ram R
-## Reg NO : 212224240050
+## Name :R N SOMNATH
+## Reg NO : 212224240158
 
 
 ##  Aim
